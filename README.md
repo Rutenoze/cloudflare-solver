@@ -1,7 +1,8 @@
 # cloudflare-solver
 Solve Cloudflare Challenge 5s and Turnstile Captcha with Python 🌠
 
-
+# Required
+capsolver.com key
 
 **If you receive results failed, please try other proxy. The problem should be that  your website is really strict with proxies
 Some sites may have stricted checks like only allow USA proxies, DE proxies, or other country proxy.**
